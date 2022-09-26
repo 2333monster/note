@@ -1,2 +1,2 @@
 # note
-A gitbook
+**CS61B learning note**
